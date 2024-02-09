@@ -1,4 +1,4 @@
----
+adb shell--
 manufacturer:
     - general
 ---
